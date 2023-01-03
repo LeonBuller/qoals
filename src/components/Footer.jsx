@@ -13,7 +13,14 @@ const Footer = () => {
             Goal-based project management.
           </p>
         </div>
-
+        <div className="flex text-sm items-center ">
+          <p className="text-[#746E8C]">
+            Inspired by{" "}
+            <a href="qoals.com" className="text-[#50D38D]">
+              qoals.com
+            </a>
+          </p>
+        </div>
         <div>
           <ul className="flex flex-row justify-between items-center gap-[2.5rem]">
             <li>
